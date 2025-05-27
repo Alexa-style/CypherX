@@ -1,8 +1,8 @@
-<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
+<h1 align="center"> ALEXA💓🌹</h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+  <a href="https://github.com Alexa-style/CypherX">
+    <img alt="CypherX docs" height="350" src="https://pin.it/5Tmwsq3HI">
   </a>
 </p>
     
