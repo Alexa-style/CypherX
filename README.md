@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com Alexa-style/CypherX">
-    <img alt="CypherX docs" height="360" src="https://files.catbox.moe/y1mwzc.jpg">
+    <img alt="CypherX docs" height="360" src="https://files.catbox.moe/9b9kao.jpg">
   </a>
 </p>
     
